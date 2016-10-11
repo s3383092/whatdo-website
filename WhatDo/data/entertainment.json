@@ -1,0 +1,40 @@
+﻿{
+  "locations": [
+    {
+      "Type": "Entertainment",
+      "Name": "Hoyts",
+      "Address": "Melbourne Central",
+      "Image": "images/hoyts.png",
+      "Rating": "3/5",
+      "Description": "Cinema chain offering blockbusters and indie films, plus kids' programs and live music screenings.",
+      "Distance": "3km"
+    },
+    {
+      "Type": "Entertainment",
+      "Name": "Aquarium",
+      "Address": "King St & Flinders St, Melbourne VIC 3000",
+      "Image": "images/aquarium.jpg",
+      "Rating": "3.9/5",
+      "Description": "Interactive multilevel aquarium housing 10,000+ animals, including sharks & saltwater crocodiles.",
+      "Distance": "5km"
+    },
+    {
+      "Type": "Entertainment",
+      "Name": "Crown Complex",
+      "Address": "8 Whiteman St, Southbank VIC 3006",
+      "Image": "images/crown.png",
+      "Rating": "5/5",
+      "Description": "Crown Melbourne restaurants are considered to be some of the best in the world, and with 29 to choose from, even the fussiest foodie will be spoilt for choice. From a mouthwatering food court to fine dining experiences, whatever your taste, you’ll find it at Crown on Melbourne's Southbank.",
+      "Distance": "7km"
+    },
+    {
+      "Type": "Entertainment",
+      "Name": "ACMI",
+      "Address": "Federation Square",
+      "Image": "images//acmi.jpg",
+      "Rating": "4/5",
+      "Description": "Noteworthy institution celebrating film, television and gaming with exhibits, screenings and events.",
+      "Distance": "9km"
+    }  
+  ]
+}

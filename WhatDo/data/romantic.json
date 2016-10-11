@@ -1,0 +1,40 @@
+﻿{
+  "locations": [
+    {
+      "Type": "Romantic",
+      "Name": "Rosetta",
+      "Address": "8 Whiteman St, Southbank ,3006",
+      "Image": "images/rosetta.jpg",
+      "Rating": "5/5",
+      "Description": "Neil Perry's marble shrine to pasta is ludicrously opulent, and that's what Valentine's Day is all about. NB: Expect to drop a bomb on your crab pasta.",
+      "Distance": "3km"
+    },
+    {
+      "Type": "Romantic",
+      "Name": "Vue De Monde",
+      "Address": "Rialto, lvl 55, 525 Collins St, 3000",
+      "Image": "images/vue-de-monde.jpg",
+      "Rating": "5/5",
+      "Description": "There are still a few tables left in the restaurant at the top of the Rialto, but if you can't drop that much cash on dinner, you should at least hit up Lui Bar next door for a sky high cocktail at sundown.",
+      "Distance": "5km"
+    },
+    {
+      "Type": "Romantic",
+      "Name": "Attica",
+      "Address": "74 Glen Eira Rd, Ripponlea, 3185 ",
+      "Image": "images/attica.png",
+      "Rating": "5/5",
+      "Description": "On one night, we've seen a 20-something couple and (we swear to god) an 80-something couple both getting misty-eyed over Ben Shewry's potato. That says it all.",
+      "Distance": "37km"
+    },
+    {
+      "Type": "Romantic",
+      "Name": "The Point",
+      "Address": "Aquatic Dr, Albert Park 3206",
+      "Image": "images/the-point.png",
+      "Rating": "5/5",
+      "Description": "It's a restaurant overlooking a motherlovin' lake friends. And we all know that wagyu, wine, and actual love is nothing if not enjoyed beside a large body of water.",
+      "Distance": "9km"
+    }  
+  ]
+}

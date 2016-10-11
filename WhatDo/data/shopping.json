@@ -1,0 +1,40 @@
+﻿{
+  "locations": [
+    {
+      "Type": "Shopping",
+      "Name": "Emporium",
+      "Address": "287 Lonsdale St",
+      "Image": "images/emporium.png",
+      "Rating": "5/5",
+      "Description": "Contemporary shopping mall offering a variety of upscale retailers, plus restaurants & a food court.",
+      "Distance": "3km"
+    },
+    {
+      "Type": "Shopping",
+      "Name": "DFO South warf",
+      "Address": "20 Convention Centre Pl, South Wharf ",
+      "Image": "images/dfo.jpg",
+      "Rating": "5/5",
+      "Description": "At DFO South Wharf we are committed to offering the total shopping experience and provide the following services to make your time at Direct Factory Outlets enjoyable.",
+      "Distance": "5km"
+    },
+    {
+      "Type": "Shopping",
+      "Name": "Spencer Outlet",
+      "Address": "201 Spencer St",
+      "Image": "images/spencer.png",
+      "Rating": "5/5",
+      "Description": "We’re Melbourne’s largest outlet shopping centre closest to the CBD. With over 100 quality eateries, specialty stores, major brands and on-trend fashion.",
+      "Distance": "37km"
+    },
+   {
+      "Type": "Entertainment",
+      "Name": "Crown Complex",
+      "Address": "8 Whiteman St, Southbank VIC 3006",
+      "Image": "images/crown.png",
+      "Rating": "5/5",
+      "Description": "Crown Melbourne restaurants are considered to be some of the best in the world, and with 29 to choose from, even the fussiest foodie will be spoilt for choice. From a mouthwatering food court to fine dining experiences, whatever your taste, you’ll find it at Crown on Melbourne's Southbank.",
+      "Distance": "7km"
+    }
+  ]
+}

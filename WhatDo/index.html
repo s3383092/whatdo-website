@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html ng-app="myapp">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <title></title>
+    <link href="Content/bootstrap.css" rel="stylesheet">
+
+    <!-- App references -->
+    <script src="Scripts/jquery-1.9.1.js"></script>
+    <script src="Scripts/angular.min.js"></script>
+    <script src="Scripts/angular-route.min.js"></script>
+    <script src="app/services.js"></script>
+    <script src="app/controllers.js"></script>
+    <script src="app/app.js"></script>
+
+</head>
+<body>
+    <header ng-include="'templates/header.html'"></header>
+    <div ng-view>
+
+    </div>
+</body>
+</html>

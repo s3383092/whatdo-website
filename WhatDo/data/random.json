@@ -1,0 +1,40 @@
+﻿{
+  "locations": [
+    {
+      "Type": "Random",
+      "Name": "ACMI",
+      "Address": "Federation Square",
+      "Image": "images/acmi.jpg",
+      "Rating": "3/5",
+      "Description": "Noteworthy institution celebrating film, television and gaming with exhibits, screenings and events.",
+      "Distance": "3km"
+    },
+    {
+      "Type": "Random",
+      "Name": "Vue De Monde",
+      "Address": "Rialto, lvl 55, 525 Collins St, 3000",
+      "Image": "images/vue-de-monde.jpg",
+      "Rating": "5/5",
+      "Description": "There are still a few tables left in the restaurant at the top of the Rialto, but if you can't drop that much cash on dinner, you should at least hit up Lui Bar next door for a sky high cocktail at sundown.",
+      "Distance": "5km"
+    },
+    {
+      "Type": "Random",
+      "Name": "St Paul's Cathedral",
+      "Address": "Flinders Ln & Swanston St",
+      "Image": "images/cathedral.jpg",
+      "Rating": "4/5",
+      "Description": "Neo-Gothic cathedral, consecrated in 1891, with twin spires and stained-glass processional door.",
+      "Distance": "7km"
+    },
+    {
+      "Type": "Random",
+      "Name": "Robot Bar",
+      "Address": "12 Bligh Pl,",
+      "Image": "images/robot.png",
+      "Rating": "5/5",
+      "Description": "Quirky bar decorated with robots, offering sake, Asian beers and bar snacks, plus an Anime club.",
+      "Distance": "9km"
+    }  
+  ]
+}

@@ -1,0 +1,40 @@
+﻿{
+  "locations": [
+    {
+      "Type": "Random",
+      "Name": "ACMI",
+      "Address": "Federation Square",
+      "Image": "images/acmi.jpg",
+      "Rating": "3/5",
+      "Description": "Noteworthy institution celebrating film, television and gaming with exhibits, screenings and events.",
+      "Distance": "3km"
+    },
+    {
+      "Type": "Random",
+      "Name": "St Paul's Cathedral",
+      "Address": "Flinders Ln & Swanston St",
+      "Image": "images/cathedral.jpg",
+      "Rating": "4/5",
+      "Description": "Neo-Gothic cathedral, consecrated in 1891, with twin spires and stained-glass processional door.",
+      "Distance": "7km"
+    },
+    {
+      "Type": "Interest",
+      "Name": "Federation Square",
+      "Address": "Federation Square ",
+      "Image": "images/square.jpg",
+      "Rating": "4.2/5",
+      "Description": "Abstract buildings flank this block-size plaza, filled with restaurants, museums and arts venues.",
+      "Distance": "3km"
+    },
+    {
+      "Type": "Interest",
+      "Name": "Royal Botanic Gardens",
+      "Address": "Birdwood Ave, South Yarra ",
+      "Image": "images/garden.jpg",
+      "Rating": "4.6/5",
+      "Description": "36-hectare botanic garden founded in 1846, planted with Australian species and non-native gardens.",
+      "Distance": "9km"
+    }  
+  ]
+}
